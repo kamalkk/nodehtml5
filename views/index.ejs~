@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<meta charset="utf-8"></meta>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+ 
+    <section id="mixing" style="background:yellow;width:45%;margin:0;float:left;padding:0;" >
+		<h2>THe proper way to mix ingredients</h2>
+		<p>When using a stand-mixer,it is important that you do not over-mix the ingredients...</p>    
+    </section>>
+    <section id="baking" style="width:45%;float:right">
+		<h2>Proper baking techniques</h2>
+		<p>It is important tha you bake your cheesecake using a lot of moisture in</p>    
+    </section>>
+    <section>
+		<aside style="font-size:larger;font-style:italic;color:blue;float:ritht;width:120px;">
+			To create a water bath ,use a pan that will allow you to fill it whth boiling water that goes
+			halfway up the springform pan in which the cake is placed		
+		</aside>    
+		<p> 
+			When baking a cheesecake , it is important not to over bake it . You only want to bake it until the middle has
+			a slight wiggle ,not until it is rock solid.		
+		</p>
+		<p>
+			It is important that you use a water 	bath ,discussed at the right ,to ensure even baking of 
+			your cheesecake.	
+		</p>
+    </section>>
+    
+  </body>
+</html>
